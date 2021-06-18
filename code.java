@@ -1,11 +1,7 @@
 import java.util.Scanner;
-
 import java.lang.Math;
-
 public class KFS_MathCalculations_Main
-
 {
-
     public static void main(String[] args)
     {
        //problem 1 
